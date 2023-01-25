@@ -121,7 +121,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 
 ```bash
 To download the needed tools:
-$ git clone --recursive https://github.com/ClaraCrazy/Flipper-Xtreme.git
+$ git clone --recursive https://github.com/wasabicoat/Flipper-Xtreme.git
 $ cd Flipper-Xtreme/
 
 To flash directly to the Flipper (Needs to be connected via USB, qFlipper closed)
